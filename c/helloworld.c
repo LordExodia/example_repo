@@ -1,3 +1,5 @@
+/* Hellow wolrd ecample in C */
+
 #include <stdio.h>
 
 int main() {
